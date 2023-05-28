@@ -45,6 +45,7 @@
     <Compile Include="CompanyViewModel.cs" />
     <Compile Include="Contract.cs" />
     <Compile Include="IndividualPerson.cs" />
+    <Compile Include="JuridicalPerson.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

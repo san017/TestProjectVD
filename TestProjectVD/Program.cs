@@ -3,7 +3,7 @@
 namespace TestProjectVD
 {
     /// <summary>
-    /// 
+    /// Стартовая точка программы.
     /// </summary>
     internal class Program
     {
