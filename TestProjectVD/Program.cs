@@ -2,6 +2,9 @@
 
 namespace TestProjectVD
 {
+    /// <summary>
+    /// 
+    /// </summary>
     internal class Program
     {
         static void Main(string[] args)
@@ -10,7 +13,7 @@ namespace TestProjectVD
 
             Console.WriteLine("Добро пожаловать в это замечательное консольное приложение :)");
             ConsoleDemo.ConsoleMenu();
-
+            
             while (exitProgramm)
             {
                 var userInput = Console.ReadLine();
